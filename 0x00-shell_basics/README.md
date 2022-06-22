@@ -1,2 +1,2 @@
-first-- printing the cwd
+#!/bin/bash
 first-- printing the cwd
