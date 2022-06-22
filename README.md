@@ -1,2 +1,2 @@
-First shell
+#!/bin/bash
 First shell
